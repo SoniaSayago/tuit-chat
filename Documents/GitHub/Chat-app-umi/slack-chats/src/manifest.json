@@ -1,0 +1,22 @@
+{
+  "name": "tuit",
+  "short_name": "tuit",
+  "display": "standalone",
+  "start_url": "./?utm_source=homescreen",
+  "theme_color": "#8c52ff",
+  "background_color": "#8c52ff",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-120x120.png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
